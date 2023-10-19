@@ -1,13 +1,24 @@
-body{font-size: 20px;
-text-align: center;
-
-.principal{text-align: center;}}
-background-color
+body{font-size: 20px;}
 
 
-.alinhar
-.destacar{color: red ;}
+.principal{text-align: center;
+    background-color: grey;}
+
+.alinhar{text-align: center;}
+
+.destaque{color: red ;}
 
 .imagem{width: 100%;}
 
-.imagem_beneficios 
+.lista{ display: inline-block;
+    vertical-align: top;
+     margin-right: 15%;
+
+}
+
+.imagem_beneficios{
+    width: 50%;
+}
+   
+
+.titulo.principal{ padding-left: 20px;}
